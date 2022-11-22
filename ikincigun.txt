@@ -1,1 +1,2 @@
-Git GitHub ikinci gun ilk denem
+Git GitHub ikinci gun ilk deneme
+Git GitHub ikinci gun ikinci deneme
